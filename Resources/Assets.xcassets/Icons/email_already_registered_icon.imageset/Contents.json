@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "email_already_registered_icon.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

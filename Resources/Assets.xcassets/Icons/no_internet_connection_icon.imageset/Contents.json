@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "no_internet_connection_icon.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
